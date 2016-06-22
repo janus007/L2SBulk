@@ -1,4 +1,4 @@
-{
+```c#
 partial class MyDataContext
 {
     partial void OnCreated()
@@ -65,4 +65,4 @@ partial class MyDataContext
         return o;
     }
 }
-}
+```
